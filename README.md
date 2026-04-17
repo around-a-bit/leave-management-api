@@ -152,5 +152,3 @@ https://your-app.up.railway.app/docs
 ```
 
 ---
-
-## ✅ Do" give me the full readme.md that i will copy once and pest once
