@@ -1,0 +1,167 @@
+{
+    "employees": [
+        {
+            "employeeId": 1,
+            "firstName": "Rahul",
+            "lastName": "Das",
+            "email": "rahul@gmail.com",
+            "department": "IT",
+            "joinDate": "2023-01-01"
+        },
+        {
+            "employeeId": 2,
+            "firstName": "Amit",
+            "lastName": "Roy",
+            "email": "amit@gmail.com",
+            "department": "HR",
+            "joinDate": "2022-05-10"
+        },
+        {
+            "employeeId": 3,
+            "firstName": "Suman",
+            "lastName": "Ghosh",
+            "email": "suman@gmail.com",
+            "department": "Finance",
+            "joinDate": "2021-03-15"
+        },
+        {
+            "employeeId": 4,
+            "firstName": "Neha",
+            "lastName": "Sharma",
+            "email": "neha@gmail.com",
+            "department": "Marketing",
+            "joinDate": "2020-08-20"
+        },
+        {
+            "employeeId": 5,
+            "firstName": "Riya",
+            "lastName": "Sen",
+            "email": "riya@gmail.com",
+            "department": "Sales",
+            "joinDate": "2024-02-11"
+        }
+    ],
+    "leaves": [],
+    "leave_balances": [
+        {
+            "balanceId": 1,
+            "employeeId": 1,
+            "year": 2025,
+            "leaveType": "Annual",
+            "totalLeaves": 20,
+            "usedLeaves": 5
+        },
+        {
+            "balanceId": 2,
+            "employeeId": 1,
+            "year": 2025,
+            "leaveType": "Sick",
+            "totalLeaves": 10,
+            "usedLeaves": 2
+        },
+        {
+            "balanceId": 3,
+            "employeeId": 1,
+            "year": 2025,
+            "leaveType": "Casual",
+            "totalLeaves": 8,
+            "usedLeaves": 1
+        },
+        {
+            "balanceId": 4,
+            "employeeId": 2,
+            "year": 2025,
+            "leaveType": "Annual",
+            "totalLeaves": 18,
+            "usedLeaves": 4
+        },
+        {
+            "balanceId": 5,
+            "employeeId": 2,
+            "year": 2025,
+            "leaveType": "Sick",
+            "totalLeaves": 12,
+            "usedLeaves": 3
+        },
+        {
+            "balanceId": 6,
+            "employeeId": 2,
+            "year": 2025,
+            "leaveType": "Casual",
+            "totalLeaves": 7,
+            "usedLeaves": 2
+        },
+        {
+            "balanceId": 7,
+            "employeeId": 3,
+            "year": 2025,
+            "leaveType": "Annual",
+            "totalLeaves": 15,
+            "usedLeaves": 5
+        },
+        {
+            "balanceId": 8,
+            "employeeId": 3,
+            "year": 2025,
+            "leaveType": "Sick",
+            "totalLeaves": 10,
+            "usedLeaves": 2
+        },
+        {
+            "balanceId": 9,
+            "employeeId": 3,
+            "year": 2025,
+            "leaveType": "Casual",
+            "totalLeaves": 6,
+            "usedLeaves": 1
+        },
+        {
+            "balanceId": 10,
+            "employeeId": 4,
+            "year": 2025,
+            "leaveType": "Annual",
+            "totalLeaves": 22,
+            "usedLeaves": 6
+        },
+        {
+            "balanceId": 11,
+            "employeeId": 4,
+            "year": 2025,
+            "leaveType": "Sick",
+            "totalLeaves": 11,
+            "usedLeaves": 3
+        },
+        {
+            "balanceId": 12,
+            "employeeId": 4,
+            "year": 2025,
+            "leaveType": "Casual",
+            "totalLeaves": 9,
+            "usedLeaves": 2
+        },
+        {
+            "balanceId": 13,
+            "employeeId": 5,
+            "year": 2025,
+            "leaveType": "Annual",
+            "totalLeaves": 20,
+            "usedLeaves": 2
+        },
+        {
+            "balanceId": 14,
+            "employeeId": 5,
+            "year": 2025,
+            "leaveType": "Sick",
+            "totalLeaves": 10,
+            "usedLeaves": 1
+        },
+        {
+            "balanceId": 15,
+            "employeeId": 5,
+            "year": 2025,
+            "leaveType": "Casual",
+            "totalLeaves": 8,
+            "usedLeaves": 0
+        }
+    ]
+}
